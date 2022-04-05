@@ -5,4 +5,4 @@ The ['Golden Triangle'](https://www.wired.co.uk/article/warehouses-next-day-deli
 ![Golden Triangle](https://www.thenxgroup.com/wp-content/uploads/2016/04/The-Golden-Triangle-300x200.jpg)      
 Image: [NX Group](https://www.thenxgroup.com/2017/08/02/golden-triangle-logistics)
 
-This repository contains the code and data to test whether the area accessible to 90% of the UK population with 4 hours corresponds to the ‘Golden Triangle’. 
+This repository contains the code and data to test whether the area accessible to 90% of the UK population within a 4 hour drive corresponds to the ‘Golden Triangle’. 
